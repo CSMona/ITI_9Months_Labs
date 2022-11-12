@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667389113 source:d:\c\labs\lineeditorusingfuncation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+

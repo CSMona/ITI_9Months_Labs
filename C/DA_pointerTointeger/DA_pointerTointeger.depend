@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667386393 source:d:\c\labs\da_pointertointeger\main.c
+	<stdio.h>
+	<stdlib.h>
+
