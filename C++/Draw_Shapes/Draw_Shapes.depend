@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667998871 source:d:\c\labs\draw_shapes\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"graphics.h"
+
+1544002460 d:\c\labs\draw_shapes\graphics.h
+	<iostream>
+	<math.h>
+	<windows.h>
+	<Windows.h>
+

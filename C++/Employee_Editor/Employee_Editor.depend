@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1667396524 source:d:\c\labs\employee_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+
