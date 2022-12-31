@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1670983818 source:d:\datastructure\ds_day_2\stackusinglinkedlist\src\stacklist.cpp
+	"StackList.h"
+
+1670983873 d:\datastructure\ds_day_2\stackusinglinkedlist\include\stacklist.h
+	<iostream>
+	<Node.h>
+	<StackList.h>
+
+1670983549 d:\datastructure\ds_day_2\stackusinglinkedlist\include\node.h
+	<iostream>
+	<Node.h>
+	<StackList.h>
+

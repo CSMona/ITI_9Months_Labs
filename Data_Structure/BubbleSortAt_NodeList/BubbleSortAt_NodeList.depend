@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671287265 source:d:\datastructure\ds_day_3\bubblesortat_nodelist\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
