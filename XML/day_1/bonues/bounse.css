@@ -1,0 +1,58 @@
+UNIVERSITY_NAME{
+    font-size: 4rem;
+    text-align: center;
+    padding:0 30rem;
+    
+display:flex;
+
+}
+
+DATE{
+	border:2px solid darkred;
+	color:red;
+	display:block;
+margin:0 2rem;
+	text-align:center;
+}
+
+PRESIDENT , TITLE,ONEOFFICER,ONEPROVOST,ONESCHOOL,THE_SCHOOL,DEPARTMENT *{
+display:block;
+
+}
+ONEOFFICER,ONEPROVOST{
+color:blue;
+   font-style: italic
+
+}
+
+TITLE{
+color: darkgreen;
+}
+
+SCHOOLS TITLE{
+	display:block;
+text-align:center;
+font-size:1.2rem;
+color:red;
+}
+
+SCHOOLS ONESCHOOL{
+	margin:.5em 0;
+}
+
+THE_SCHOOL{
+text-align:center;
+color:red;
+}
+
+DEPARTMENT{
+	display: block;
+    margin: .5em 13px;
+    padding: 15px;
+    padding-left: 10px;
+    border-width: 4px;
+    border-style: solid ;
+    border-color: grey grey  #eee grey;
+
+}
+
